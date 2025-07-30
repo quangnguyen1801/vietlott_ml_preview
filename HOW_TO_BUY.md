@@ -9,7 +9,7 @@ Thank you for your interest in the full version of the Vietlott Machine Learning
 - CLI and/or REST API
 - Build instructions and deployment guide
 
-## 💵 Price: 499,000 VND / one-time
+## 💵 Price: 199,000 VND / one-time
 
 ## 📬 Contact
 - Email: n2quang.uit@gmail.com
