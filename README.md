@@ -44,3 +44,9 @@ See more in [`src_demo/`](./src_demo/).
 
 - See [HOW_TO_BUY.md](./HOW_TO_BUY.md) for full instructions
 - Contact: n2quang.uit@gmail.com
+
+---
+
+## 🏆 Achievements
+
+![Pair Extraordinaire](assets/pair_extraordinaire.png)
