@@ -18,7 +18,7 @@ Rust-based Machine Learning project to analyze & predict Vietlott lottery number
 
 ### 📸 Output Example
 
-![Prediction Example](images/prediction_example.png)
+![Prediction Example](images/Screenshot 2025-07-30 095417.png)
 
 ---
 
